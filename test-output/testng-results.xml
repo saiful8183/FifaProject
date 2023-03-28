@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-06T00:58:09 EST" name="Default suite" finished-at="2023-01-06T00:58:17 EST" duration-ms="7345">
+  <suite started-at="2023-02-23T00:10:34 EST" name="Suite" finished-at="2023-02-23T00:10:42 EST" duration-ms="8161">
     <groups>
     </groups>
-    <test started-at="2023-01-06T00:58:09 EST" name="Default test" finished-at="2023-01-06T00:58:17 EST" duration-ms="7345">
+    <test started-at="2023-02-23T00:10:34 EST" name="Test" finished-at="2023-02-23T00:10:42 EST" duration-ms="8161">
       <class name="com.qa.fifa.SearchTest">
-        <test-method signature="validateSearch()[pri:0, instance:com.qa.fifa.SearchTest@36bc55de]" started-at="2023-01-06T00:58:09 EST" name="validateSearch" finished-at="2023-01-06T00:58:17 EST" duration-ms="7313" status="PASS">
+        <test-method signature="validateSearch()[pri:0, instance:com.qa.fifa.SearchTest@36bc55de]" started-at="2023-02-23T00:10:34 EST" name="validateSearch" finished-at="2023-02-23T00:10:42 EST" duration-ms="8133" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateSearch -->
       </class> <!-- com.qa.fifa.SearchTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
